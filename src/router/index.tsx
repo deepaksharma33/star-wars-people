@@ -3,6 +3,7 @@ import React, { Fragment } from 'react';
 import { createBrowserRouter, Link } from 'react-router-dom';
 
 import People from '../containers/people';
+import NoRouteMatch from '../components/noRouteMatch';
 
 import { DEFAULT_PAGE_NUMBER } from '../constants/helper';
 
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
   {
     path: 'people/:page',
     element: <People/>
+  },
+  {
+    path: '*',
+    element: <NoRouteMatch/>
   }
 ]);
 
