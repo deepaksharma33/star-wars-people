@@ -1,0 +1,46 @@
+.navigation_wrapper {
+  width: 100vw;
+  display: flex;
+  position: absolute;
+  justify-content: space-between;
+}
+
+.primary_button span {
+  z-index: 2;
+  position: relative;
+}
+
+.navigation_prev:after {
+  top: 0;
+  right:0;
+  width: 0;
+  height: 100%;
+  content: "";
+  position: absolute;
+  background: black;
+  transition: all .35s;
+}
+
+.navigation_next:after {
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  content: "";
+  position: absolute;
+  background: black;
+  transition: all .35s;
+}
+
+.primary_button:hover {
+  color: white;
+}
+
+.primary_button:hover:after {
+  width: 100%;
+}
+
+.primary_button:disabled {
+  cursor: not-allowed;
+  pointer-events: all !important;
+}

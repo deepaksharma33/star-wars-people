@@ -1,0 +1,10 @@
+.sort_button {
+  top: 30px;
+  position: absolute !important;
+}
+
+.error_message {
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}

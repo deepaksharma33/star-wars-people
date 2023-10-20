@@ -1,0 +1,6 @@
+export const GET_PEOPLE = 'GET_PEOPLE';
+
+export const SORT_PEOPLE_DATA = 'SORT_PEOPLE_DATA';
+
+export const GET_PEOPLE_SUCCESS = 'GET_PEOPLE_SUCCESS';
+export const GET_PEOPLE_FAILURE = 'GET_PEOPLE_FAILURE';
