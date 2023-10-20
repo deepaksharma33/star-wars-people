@@ -30,8 +30,8 @@ A React Application for lovers of the Star Wars movie franchise.
 - Linter / Code Formatting - [https://eslint.org/](ESLint) and [https://prettier.io/](Prettier)
   
 ## Screenshots
-- [screenshots/Screenshot 2023-10-20 at 9.52.43 AM.png](StartingScreen)
-- [screenshots/Screenshot 2023-10-20 at 9.52.57 AM.png](Browser)
-- [screenshots/Screenshot 2023-10-20 at 9.54.01 AM.png](Tablet)
-- [screenshots/Screenshot 2023-10-20 at 9.54.38 AM.png](Mobile)
+- [Starting Screen](https://github.com/deepaksharma33/star-wars-people/blob/7e419934cb6a3cf915848ccaa78b7987fc41c7c5/screenshots/Screenshot%202023-10-20%20at%209.52.43%E2%80%AFAM.png)
+- [Browser](https://github.com/deepaksharma33/star-wars-people/blob/7e419934cb6a3cf915848ccaa78b7987fc41c7c5/screenshots/Screenshot%202023-10-20%20at%209.52.57%E2%80%AFAM.png)
+- [Tablet](https://github.com/deepaksharma33/star-wars-people/blob/7e419934cb6a3cf915848ccaa78b7987fc41c7c5/screenshots/Screenshot%202023-10-20%20at%209.54.01%E2%80%AFAM.png)
+- [Mobile](https://github.com/deepaksharma33/star-wars-people/blob/7e419934cb6a3cf915848ccaa78b7987fc41c7c5/screenshots/Screenshot%202023-10-20%20at%209.54.38%E2%80%AFAM.png)
 
